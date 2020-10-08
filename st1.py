@@ -1,7 +1,7 @@
 import cv2
 import sys
 import time
-faceCascade = cv2.CascadeClassifier('Hand.Cascade.1.xml')
+faceCascade = cv2.CascadeClassifier('haarcascades/Hand.Cascade.1.xml')
 
 video_capture = cv2.VideoCapture(0)
 

@@ -34,7 +34,7 @@ while(1):
 end = time.time()
 seconds = end - start
 print("Time taken : {0} seconds".format(seconds))
-fps  =num_frames / seconds
+fps  =count / seconds
 print ("Estimated frames per second : {0}".format(fps))
 
 cap.release() 
