@@ -18,7 +18,15 @@ Learn More about OpenCV by doing Hand, Person and face detection. Detect Objects
 
 Results:
 
-![](https://github.com/Firos333/d3site/blob/master/images/Untitled.png?raw=true)
+YOLO-Tiny
+![](https://github.com/Firos333/openCV-Object-detection/blob/master/images/Untitled.png?raw=true)
+
+Haar cascade detection
+![](https://github.com/Firos333/openCV-Object-detection/blob/master/images/face.png?raw=true)
+
+HOG model detection
+![](https://github.com/Firos333/openCV-Object-detection/blob/master/images/hog.png?raw=true)
+
 
 
 Run 
