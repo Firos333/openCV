@@ -11,20 +11,20 @@ This I created while learning OpenCV, yoloV3, Haar cascade Models, HOG models an
 
 Description:  <br />
 Learn More about OpenCV by doing Hand, Person and face detection. Detect Objects with Ancient Haar-Cascade, HOG models and novel YOLO V3 models 
-(Created by [cansik] (https://github.com/cansik)).
+Created by cansik (https://github.com/cansik).
 
 
 
 
 Results:
 
-YOLO-Tiny
+YOLO-Tiny<br />
 ![](https://github.com/Firos333/openCV-Object-detection/blob/master/images/Untitled.png?raw=true)
 
-Haar cascade detection
+Haar cascade detection<br />
 ![](https://github.com/Firos333/openCV-Object-detection/blob/master/images/face.png?raw=true)
 
-HOG model detection
+HOG model detection<br />
 ![](https://github.com/Firos333/openCV-Object-detection/blob/master/images/hog.png?raw=true)
 
 
